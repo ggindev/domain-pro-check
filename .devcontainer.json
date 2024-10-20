@@ -1,0 +1,6 @@
+{
+  "tasks": {
+    "build": "npm install && npx webpack",
+    "launch": "npm install && npx webpack serve"
+  }
+}
